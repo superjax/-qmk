@@ -60,3 +60,5 @@
 /* PMW3360 settings. */
 #define POINTING_DEVICE_CS_PIN B14
 #define PMW33XX_CS_DIVISOR 64
+
+#define MASTER_LEFT

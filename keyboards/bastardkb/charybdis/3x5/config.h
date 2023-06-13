@@ -29,3 +29,7 @@
 #    define RGB_MATRIX_SPLIT \
         { 18, 18 }
 #endif
+
+#define TAPPING_TERM 200
+#define IGNORE_MOD_TAP_INTERRUPT
+#define PERMISSIVE_HOLD
